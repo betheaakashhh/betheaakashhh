@@ -35,7 +35,7 @@
 
 ### 📬 **Let’s Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash_Sahu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/public-class-myprofile/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@betheaakashhh-E4405F?style=flat&logo=instagram)]((https://www.instagram.com/betheaakashhh?igsh=dGhkc3Z0aWh1NHJj))  
+[![Instagram](https://img.shields.io/badge/Instagram-@betheaakashhh-E4405F?style=flat&logo=instagram)](https://www.instagram.com/betheaakashhh?igsh=dGhkc3Z0aWh1NHJj)  
 [![Email](https://img.shields.io/badge/Email-sahu.aakash1008%40gmail.com-D14836?style=flat&logo=gmail)](mailto:sahu.aakash1008@gmail.com)  
 
 ---  
