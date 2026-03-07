@@ -38,6 +38,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@betheaakashhh-E4405F?style=flat&logo=instagram)](https://www.instagram.com/betheaakashhh?igsh=dGhkc3Z0aWh1NHJj)  
 [![Email](https://img.shields.io/badge/Email-sahu.aakash1008%40gmail.com-D14836?style=flat&logo=gmail)](mailto:sahu.aakash1008@gmail.com)  
 
+### My Deployments
+[!Ephotography](https://ephotografy-frontend.vercel.app)
+[!portfolio](https://aakashsahu.vercel.app)
+
 ---  
 
 ### ⚡ **CodeManiac Chronicles**  
