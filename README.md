@@ -199,3 +199,27 @@ A full-stack tournament platform concept with player accounts, tournament manage
 <sub>Designed with curiosity, caffeine, and a suspicious number of debug logs. ☕</sub>
 
 </div>
+
+<!-- readme-sync-bot:checklist:start -->
+## 📋 Recommended Sections Checklist
+
+_The bot can't write these automatically — they need your judgment, not a diff. This list updates itself as you add them:_
+
+- [ ] License
+- [ ] Author / Contact
+- [ ] Contributing Guidelines
+- [ ] Acknowledgements
+- [ ] Testing
+- [ ] Deployment
+<!-- readme-sync-bot:checklist:end -->
+
+<!-- readme-sync-bot:toc:start -->
+## Table of Contents
+
+- [👋 whoami](#-whoami)
+- [⚙️ Tech universe](#-tech-universe)
+- [🚀 Selected builds](#-selected-builds)
+- [📊 GitHub command center](#-github-command-center)
+- [🤝 Let's connect](#-lets-connect)
+- [📋 Recommended Sections Checklist](#-recommended-sections-checklist)
+<!-- readme-sync-bot:toc:end -->
