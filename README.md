@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:312E81,100:06B6D4&text=AKASH%20SAHU&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=CODEMANIAC%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Akash Sahu — CodeManiac" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:312E81,100:06B6D4&text=AAKASH%20KUMAR%20SAHU&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=CODEMANIAC%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Akash Sahu — CodeManiac" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+products%2C+not+just+projects.;Java+%7C+Spring+Boot+%7C+MERN+%7C+Flutter;APIs%2C+automation%2C+and+thoughtful+UX.;Always+learning.+Always+shipping." alt="Animated introduction" /></a>
 
